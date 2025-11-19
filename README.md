@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**leonardo-fj/leonardo-fj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👩🏻‍💻 Leonardo Jovêncio
 
 **`Engenheiro de Computação | Machine Learning & Optimization`**
@@ -86,8 +82,6 @@ Perfil Linkedin: "[leonardofj](https://www.linkedin.com/in/leonardofjovencio/)".
   />
 
 </p>
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
